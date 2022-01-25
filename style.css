@@ -1,258 +1,258 @@
 #home {
-	background-image: radial-gradient(#171c2680, #171c2690, #171c26, #171c26),
-		url(lottie/abstract-techno-background-with-connecting-lines.jpg) !important;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
+    background-image: radial-gradient(#171c2680, #171c2690, #171c26, #171c26), url(lottie/abstract-techno-background-with-connecting-lines.jpg) !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #head-text {
-	text-align: left;
+    text-align: left;
 }
 
 @media only screen and (max-width: 576px) {
-	#head-text {
-		text-align: center;
-	}
-	.head-right {
-		margin-top: 5%;
-	}
+    #head-text {
+        text-align: center;
+    }
+    .head-right {
+        margin-top: 5%;
+    }
 }
 
 #bg,
 #id1 {
-	background-color: #171c26;
+    background-color: #171c26;
 	border-color: #171c26;
-	font-family: "Poppins", sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
+
 #logo1,
 #logo2,
 #logo3 {
-	border: none;
+    border: none;
 }
+
 .theme {
-	border-radius: 30px;
+    border-radius: 30px;
 }
 
 #theme2 {
-	color: white;
-	font-weight: 500;
-	font-size: 3em;
-	background-size: 100%;
-	background: linear-gradient(
-		to bottom,
-		#171c26 60%,
-		#0daef3 60% 90%,
-		#171c26 90% 100%
-	);
+    color: white;
+    font-weight: 500;
+    font-size: 3em;
+    background-size: 100%;
+    background: linear-gradient( to bottom, #171c26 60%, #0daef3 60% 90%, #171c26 90% 100%);
 }
+
 #theme1 {
-	color: transparent;
-	font-weight: 500;
-	font-size: 3em;
-	background-size: 100%;
-	background: linear-gradient(
-		to bottom,
-		#171c26 60%,
-		#0daef3 60% 90%,
-		#171c26 90% 100%
-	);
+    color: transparent;
+    font-weight: 500;
+    font-size: 3em;
+    background-size: 100%;
+    background: linear-gradient( to bottom, #171c26 60%, #0daef3 60% 90%, #171c26 90% 100%);
 }
+
 #theme4 {
-	color: white;
-	font-weight: 500;
-	font-size: 3em;
-	background-size: 100%;
-	background: linear-gradient(
-		to bottom,
-		#171c26 60%,
-		#ff7700 60% 90%,
-		#171c26 90% 100%
-	);
+    color: white;
+    font-weight: 500;
+    font-size: 3em;
+    background-size: 100%;
+    background: linear-gradient( to bottom, #171c26 60%, #ff7700 60% 90%, #171c26 90% 100%);
 }
+
 #theme3 {
-	color: transparent;
-	font-weight: 500;
-	font-size: 3em;
-	background-size: 100%;
-	background: linear-gradient(
-		to bottom,
-		#171c26 60%,
-		#ff7700 60% 90%,
-		#171c26 90% 100%
-	);
+    color: transparent;
+    font-weight: 500;
+    font-size: 3em;
+    background-size: 100%;
+    background: linear-gradient( to bottom, #171c26 60%, #ff7700 60% 90%, #171c26 90% 100%);
 }
+
 #prizes {
-	margin-top: 5%;
-	margin-bottom: 5%;
-	font-weight: 500;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-weight: 500;
 }
+
 #prize1,
 #prize4 {
-	border-radius: 60px;
-	margin-right: 8%;
-	margin-left: 0;
+    border-radius: 60px;
+    margin-right: 8%;
+    margin-left: 0;
 }
+
 #prize2,
 #prize5 {
-	border-radius: 60px;
-	margin-left: 6%;
-	margin-right: 6%;
+    border-radius: 60px;
+    margin-left: 6%;
+    margin-right: 6%;
 }
+
 #prize3,
 #prize6 {
-	border-radius: 60px;
-	margin-left: 8%;
-	margin-right: 0;
+    border-radius: 60px;
+    margin-left: 8%;
+    margin-right: 0;
 }
+
 #prize1s,
 #prize2s,
 #prize3s {
-	border-radius: 60px;
-
-	font-size: 1.9em;
-	padding: 15%;
-	padding-left: 20%;
-	padding-bottom: 17%;
-	padding-top: 17%;
+    border-radius: 60px;
+    font-size: 1.9em;
+    padding: 15%;
+    padding-left: 20%;
+    padding-bottom: 17%;
+    padding-top: 17%;
 }
+
 #prize1,
 #prize2,
 #prize3 {
-	font-size: 40px;
-	padding: 15%;
+    font-size: 40px;
+    padding: 15%;
 }
+
 #prize4s,
 #prize5s,
 #prize6s {
-	border-radius: 60px;
-
-	font-size: 1.2em;
-	padding: 15%;
-	font-weight: 500;
-	margin-bottom: 20%;
+    border-radius: 60px;
+    font-size: 1.2em;
+    padding: 15%;
+    font-weight: 500;
+    margin-bottom: 20%;
 }
+
 #prize4,
 #prize5 {
-	font-size: 22px;
-	padding: 10%;
-	font-weight: 500;
-	margin-bottom: 20%;
-	/* padding: 25%; */
+    font-size: 22px;
+    padding: 10%;
+    font-weight: 500;
+    margin-bottom: 20%;
+    /* padding: 25%; */
 }
+
 #prize6 {
-	font-size: 22px;
-	padding: 12%;
-	padding-bottom: 15%;
-	padding-top: 15%;
+    font-size: 22px;
+    padding: 12%;
+    padding-bottom: 15%;
+    padding-top: 15%;
 }
-.rupee{
-	color: rgb(0, 255, 0);
-	font-family:Arial, Helvetica, sans-serif;
-}
-.card-bg{
-	-webkit-box-shadow: 11px 15px 24px 1px rgba(37,41,54,1);
-	-moz-box-shadow: 11px 15px 24px 1px rgba(37,41,54,1);
-	box-shadow: 11px 15px 24px 1px rgba(37,41,54,1);
-	background-image:linear-gradient(to right, #16222A 0%, #3A6073 51%, #16222A 100%)}
 
 #faq2 {
-	color: white;
-	font-weight: 500;
-	font-size: 3em;
-	background-size: 100%;
-	background: linear-gradient(
-		to bottom,
-		#171c26 60%,
-		#0daef3 60% 90%,
-		#171c26 90% 100%
-	);
+    color: white;
+    font-weight: 500;
+    font-size: 3em;
+    background-size: 100%;
+    background: linear-gradient( to bottom, #171c26 60%, #0daef3 60% 90%, #171c26 90% 100%);
 }
+
 #faq1 {
-	color: transparent;
-	font-weight: 500;
-	font-size: 3em;
-	background-size: 100%;
-	background: linear-gradient(
-		to bottom,
-		#171c26 60%,
-		#0daef3 60% 90%,
-		#171c26 90% 100%
-	);
+    color: transparent;
+    font-weight: 500;
+    font-size: 3em;
+    background-size: 100%;
+    background: linear-gradient( to bottom, #171c26 60%, #0daef3 60% 90%, #171c26 90% 100%);
 }
+
 #theme_head {
-	font-size: 40px;
+    font-size: 40px;
 }
+
 #faq-accordion {
-	border: solid 2px #0daef3;
-	border-radius: 30px;
-	overflow: hidden;
+    border: solid 2px #0daef3;
+    border-radius: 30px;
+    overflow: hidden;
 }
 
 .faq-card-header {
-	background-color: #0daef3 !important;
+    background-color: #0daef3 !important;
 }
+
 .faq-card-body {
-	background-color: white;
+    background-color: white;
 }
+
 .faq-btn {
-	background-color: #0daef3;
-	box-shadow: 0 !important;
-	font-size: larger;
-	color: white;
+    background-color: #0daef3;
+    box-shadow: 0 !important;
+    font-size: larger;
+    color: white;
 }
+
 #heading1 {
-	margin-top: 140px;
+    margin-top: 140px;
 }
+
 .accordion button {
-	background-color: #0daef3;
-	box-shadow: none;
-	color: white;
+    background-color: #0daef3;
+    box-shadow: none;
+    color: white;
 }
+
 .accordion button:hover {
-	background-color: #0daef3;
-	box-shadow: none;
-	color: white;
+    background-color: #0daef3;
+    box-shadow: none;
+    color: white;
 }
+
 .accordion button:focus {
-	background-color: #0daef3;
-	box-shadow: none;
-	color: white;
+    background-color: #0daef3;
+    box-shadow: none;
+    color: white;
 }
+
 #FAQs {
-	margin-top: 8vw;
+    margin-top: 8vw;
 }
+
 #FAQs2 {
-	margin-top: 10vw;
+    margin-top: 10vw;
 }
+
 
 /*#logo1,#logo2,#logo3{
   }*/
 
 .about-inner-text {
-	color: #ddd;
+    color: #ddd;
 	font-size: 1.2em;
-	font-family: "Poppins", sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 
 .about-img {
-	width: 100%;
-	height: 100%;
+    width: 100%;
+    height: 100%;
 }
+
 .about-inner-img1 {
-	background: linear-gradient(90deg, rgba(255, 255, 255, 0), #171c26),
-		url("./lottie/aboutBg1.jpg");
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0), #171c26),
+		url('./lottie/aboutBg1.jpg');
 	width: 100%;
 	height: 415px;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
 .about-inner-img2 {
-	background-image: linear-gradient(270deg, rgba(255, 255, 255, 0), #171c26),
-		url("./lottie/aboutBg2.jpg");
+    background-image: linear-gradient(270deg, rgba(255, 255, 255, 0), #171c26),
+		url('./lottie/aboutBg2.jpg');
 	width: 100%;
 	height: 415px;
 	text-align: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+
+.card-bg {
+	background: #fff;
+	border-radius: 15px;
+	border-width: 2px;
+	border-color: #ddd;
+	box-shadow: 0 4px 8px 0 #dddddd30, 0 6px 20px 0 #dddddd30;
+}
+
+.rupee {
+	color: #ff7700;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
 }
