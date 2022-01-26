@@ -1,0 +1,57 @@
+#countdown {
+	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	/* border: 3px white solid; */
+	border-radius: 15px;
+	background-color: #00000050;
+}
+
+#countdown h1 {
+	font-weight: normal;
+	letter-spacing: 0.125rem;
+	text-transform: uppercase;
+}
+
+#countdown li {
+	display: inline-block;
+	font-size: 1em;
+	list-style-type: none;
+	padding: 1em;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bold;
+}
+
+#countdown li span {
+	display: block;
+	font-size: 1.5rem;
+	text-align: center;
+	background-color: #fff; /* 0daef3 ff7700 */
+	color: black;
+	/* width: 3rem; */
+	width: 40px;
+	height: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 10px;
+	font-weight: 600;
+	margin-top: 5px;
+}
+
+@media all and (max-width: 768px) {
+	h1 {
+		font-size: calc(1.5rem * var(--smaller));
+	}
+
+	li {
+		font-size: calc(1.125rem * var(--smaller));
+	}
+
+	li span {
+		font-size: calc(3.375rem * var(--smaller));
+	}
+}
